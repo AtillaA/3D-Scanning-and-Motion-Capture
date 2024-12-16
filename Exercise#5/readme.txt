@@ -1,6 +1,6 @@
 This sub-repository uses:
 
-[1] FLANN (Fast Library for Approximate Nearest Neighbors) for efficient nearest neighbor searches.
+[1] FLANN (Fast Library for Approximate Nearest Neighbors) for efficient nearest neighbor searches, by Marius Muja.
   (Repository: https://github.com/flann-lib/flann)
            
 [2] The method described by Kok-Lim Low in "Linear Least-Squares Optimization for Point-to-Plane ICP Surface Registration" for surface registration.
